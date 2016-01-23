@@ -135,5 +135,10 @@ null,
 {"id":133,"expanded":false,"name":"教会","order":133,"parentId":132,"scrollX":819,"scrollY":481},
 {"id":134,"expanded":false,"name":"宿屋1F","order":134,"parentId":132,"scrollX":819,"scrollY":481},
 {"id":135,"expanded":false,"name":"MAP135","order":135,"parentId":132,"scrollX":811,"scrollY":844},
-{"id":136,"expanded":false,"name":"！炎の洞窟　最深部","order":136,"parentId":122,"scrollX":811,"scrollY":719}
+{"id":136,"expanded":true,"name":"！炎の洞窟　最深部","order":136,"parentId":122,"scrollX":811,"scrollY":719},
+{"id":137,"expanded":false,"name":"！炎の洞窟　最深部","order":137,"parentId":136,"scrollX":811,"scrollY":640},
+{"id":138,"expanded":true,"name":"！炎の洞窟　最深部","order":138,"parentId":136,"scrollX":811,"scrollY":719},
+{"id":139,"expanded":false,"name":"MAP139","order":141,"parentId":136,"scrollX":819,"scrollY":481},
+{"id":140,"expanded":false,"name":"！炎の洞窟　最深部","order":139,"parentId":138,"scrollX":811,"scrollY":640},
+{"id":141,"expanded":false,"name":"！炎の洞窟　最深部","order":140,"parentId":138,"scrollX":811,"scrollY":640}
 ]
